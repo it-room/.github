@@ -1,0 +1,8 @@
+{
+  "name": "IT-Room CI Workflow",
+  "description": "IT-Room CI starter workflow.",
+  "iconName": "octicon dependabot",
+  "categories": [
+    "PHP"
+  ]
+}
